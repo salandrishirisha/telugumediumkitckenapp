@@ -2,8 +2,8 @@
   "name": "telugumediumkitchen",
   "version": "1.0.0",
   "scripts": {
-    "start": "parcel telugu-kitcken-main/index.html",
-    "build": "parcel build telugu-kitcken-main/index.html --dist-dir dist",
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
