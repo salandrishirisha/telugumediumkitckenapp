@@ -7,7 +7,7 @@ import Error from "./Components/Error";
 import { createBrowserRouter, RouterProvider,Outlet } from 'react-router-dom';
 import Restaurantmenu from "./Components/Restaurantmenu";
 import {Provider} from  "react-redux";
-import Store from "./Components/Store";
+import Store from "./Components/store";
 import Cart from "./Components/Cart";
 import Crowsel from "./Components/Crowsel";
 import Footer from "./Components/Footer";
